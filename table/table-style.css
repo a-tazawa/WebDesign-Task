@@ -1,0 +1,28 @@
+@charset "utf-8";
+body{
+    background-color: #DEB887;
+    font-family: "HG丸ｺﾞｼｯｸM-PRO","UD デジタル 教科書体 NP-R",serif;
+}
+table caption{
+    font-size: 30px;
+}
+table{
+    margin: 30px;
+}
+table,th,td{
+    border: solid 1px black;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+table th{
+    background-color: #F5DEB3;
+    padding: 5px;
+}
+table td{
+    background-color: #FDF5E6;
+    padding: 5px;
+}
+table img{
+    width: 50%;
+    height: 50%;
+}
