@@ -1,0 +1,20 @@
+@charset "utf-8";
+body{
+    background-color: #f8afc9;
+}
+fieldset{
+    margin-bottom: 30px;
+    border-color: #e18cf2;
+}
+input{
+    margin-bottom: 10px;
+}
+span{
+    margin: 0px 10px;
+}
+div{
+    margin: 10px 0px 0px;
+}
+a{
+    font-size: 0.7rem;
+}
